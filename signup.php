@@ -14,7 +14,7 @@
 <div class="section">
 	<div class="wrapper">
 		<div class="form">
-			<form action="includes/signup.inc.php" method="post" >
+			<form action="includes/signup.inc.php" method="POST" >
 
 				<label for="userName">
 					<b>User Name:</b>
