@@ -8,7 +8,8 @@
 	<title>home page</title>
 </head>
 <body>
-Hey, I am the home page
-I will be back sooner than you can think
+<div id = 'header'>
+	<h2>Header will go here</h2>	
+</div>
 </body>
 </html>
